@@ -1,4 +1,12 @@
 ﻿广东频道,#genre#
+汕头,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+汕头,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
+汕头,http://121.13.164.33:8000/udp/239.77.0.1:5146
+汕头,http://119.131.240.27:8089/hls/2/index.m3u8
+汕头,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+汕头,http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+汕头,http://gmxw.7766.org:808/hls/83/index.m3u8
+汕头,http://39.134.19.229:6410/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503720231124053529907980
 珠江,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
 珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
 珠江,http://121.13.164.33:8000/udp/239.77.0.1:5146
